@@ -1,5 +1,5 @@
 FROM nfcore/base:1.9
-LABEL authors="Michael L Heuer, Jordan Wilheim, Maxime Garcia, Alexander Peltzer." \
+LABEL authors="International Consortium of nf-core Developers." \
       description="Docker image containing all software requirements for the nf-core/covid19 pipeline"
 
 # Install the conda environment
