@@ -64,11 +64,11 @@ The nf-core/covid19 pipeline comes with documentation about the pipeline, found 
 
 ## Credits
 
-The implementation of nf-core/covid19 is an international collaboration between numerous contributors and developers. We appreciated the need to have a portable, reproducible and scalable pipeline for the analysis of COVID-19 sequencing samples and so we assembled to do our bit!
+The implementation of nf-core/covid19 is an international collaboration between numerous contributors and developers. We appreciated the need to have a portable, reproducible and scalable pipeline for the analysis of COVID-19 sequencing samples and so we assembled to do our bit! Please come and join us :)
 
 ### Contributors
 
-! Name                                                      | Affiliation                                                              |
+| Name                                                      | Affiliation                                                              |
 |-----------------------------------------------------------|--------------------------------------------------------------------------|
 | [Alexander Peltzer](https://github.com/apeltzer)          | [Boehringer Ingelheim, Germany](https://www.boehringer-ingelheim.de/)    |
 | [Edgar Garriga Nogales](https://github.com/edgano)        | [Centre for Genomic Regulation, Spain](https://www.crg.eu/)              |
@@ -81,19 +81,6 @@ The implementation of nf-core/covid19 is an international collaboration between 
 | [Santiago Revale](https://github.com/santiagorevale)      | [The Wellcome Centre for Human Genetics, UK](https://www.well.ox.ac.uk/) |
 | [Thanh Le Viet](https://github.com/thanhleviet)           | [Quadram Institute, UK](https://quadram.ac.uk/)                          |
 | [Tobias Schraink](https://github.com/tobsecret)           | [New York University, USA](http://www.nyu.edu/)                          |
-
-
-* [Alexander Peltzer](https://github.com/apeltzer) - [Boehringer Ingelheim, Germany](https://www.boehringer-ingelheim.de/)
-* [Edgar Garriga Nogales](https://github.com/edgano) - [Centre for Genomic Regulation, Spain](https://www.crg.eu/)
-* [Harshil Patel](https://github.com/drpatelh) - [The Francis Crick Institute, UK](https://www.crick.ac.uk/)
-* [Jordan Wilheim](https://github.com/jordwil) - [University of California, USA](https://www.universityofcalifornia.edu/)
-* [Jose Espinosa-Carrasco](https://github.com/JoseEspinosa) - [Centre for Genomic Regulation, Spain](https://www.crg.eu/)
-* [Maxime Garcia](https://github.com/MaxUlysse) - [SciLifeLab, Sweden](https://www.scilifelab.se/)
-* [Michael L Heuer](https://github.com/heuermh) - [University of California, Berkeley, USA](https://www.berkeley.edu/)
-* [Phil Ewels](https://github.com/ewels) - [SciLifeLab, Sweden](https://www.scilifelab.se/)
-* [Santiago Revale](https://github.com/santiagorevale) - [The Wellcome Centre for Human Genetics, UK](https://www.well.ox.ac.uk/)
-* [Thanh Le Viet](https://github.com/thanhleviet) - [Quadram Institute, UK](https://quadram.ac.uk/)
-* [Tobias Schraink](https://github.com/tobsecret) - [New York University, USA](http://www.nyu.edu/)
 
 > Listed in alphabetical order
 
