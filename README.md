@@ -72,6 +72,7 @@ The implementation of nf-core/covid19 is an international collaboration between 
 |-----------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [Alexander Peltzer](https://github.com/apeltzer)          | [Boehringer Ingelheim, Germany](https://www.boehringer-ingelheim.de/)                |
 | [Edgar Garriga Nogales](https://github.com/edgano)        | [Centre for Genomic Regulation, Spain](https://www.crg.eu/)                          |
+| [Edmund Miller](https://github.com/emiller88)             | [University of Texas at Dallas, USA](https://www.utdallas.edu/)                      |
 | [Harshil Patel](https://github.com/drpatelh)              | [The Francis Crick Institute, UK](https://www.crick.ac.uk/)                          |
 | [Jordan Wilheim](https://github.com/jordwil)              | [University of California, USA](https://www.universityofcalifornia.edu/)             |
 | [Jose Espinosa-Carrasco](https://github.com/JoseEspinosa) | [Centre for Genomic Regulation, Spain](https://www.crg.eu/)                          |
